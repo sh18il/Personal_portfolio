@@ -1,0 +1,11 @@
+.skil-tab{
+    
+    color: white;
+    background-image: url(https://img.freepik.com/free-vector/realistic-black-shimmer-background_23-2150020465.jpg);
+}.iconsocial{
+    width: 40px;
+    text-align: center;
+
+}.nav-ic:hover{
+    color: brown;
+}
